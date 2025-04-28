@@ -1,0 +1,3 @@
+@url = https://studious-capybara-q767497w74pgc9vpx-3000.app.github.dev
+
+GET {{url}}/api/v1/generos
