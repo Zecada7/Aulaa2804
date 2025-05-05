@@ -1,3 +1,12 @@
-@url = https://studious-capybara-q767497w74pgc9vpx-3000.app.github.dev
+@url = https://super-duper-telegram-5g5gr4gwgxj4h4qgv-3000.app.github.dev/
 
 GET {{url}}/api/v1/generos
+
+###
+POST {{url}}/api/v1/generos
+Content-Type: application/json
+
+{
+    "id" : 10,
+    "nome" : "Biografia"
+}
